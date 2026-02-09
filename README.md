@@ -1,7 +1,6 @@
-# LoveProject
-A simple static webpage as a gift for my girlfriend . Although a personal project , but made it open-source to help all the lovers out there who are seeking for a creative idea to impress their partners.
+# beginning of
+a counter of our time together, just to keep track 👀
 <br>
-You can check this out with 
+<br>
+here's the link : https://goldenboyxo.github.io/beginning-of/
 
-<br>
-Link: https://ritvikbhatia.github.io/LoveProject
