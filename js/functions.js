@@ -116,8 +116,7 @@ function timeElapse(date){
 	//}
 	
 	var result = 
-		"<span class=\"digit\">" + 
-		years + "</span> days <span class=\"digit\">" + 
+		"<span class=\"digit\">" +
 		days + "</span> days <span class=\"digit\">" + 
 		hours + "</span> hours <span class=\"digit\">" + 
 		minutes + "</span> minutes <span class=\"digit\">" + 
